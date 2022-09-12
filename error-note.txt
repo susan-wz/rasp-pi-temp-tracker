@@ -1,0 +1,3 @@
+﻿Append error, logging in again
+Unable to login and get spreadsheet.  Check OAuth credentials, spreadsheet name, and make sure spreadsheet is shared to the client_email address in the OAuth .json file!
+Google sheet login failed with error: {'code': 503, 'message': 'The service is currently unavailable.', 'status': 'UNAVAILABLE'}
